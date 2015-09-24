@@ -2,6 +2,27 @@
 //  HomeViewController.m
 //  animatedtransitons
 //
+/*
+ * ┏┓　　　┏┓
+ * ┏┛┻━━━┛┻━━━━┓
+ * ┃　         ┃
+ * ┃　　　━　　　┃
+ * ┃　┳┛　┗┳　  ┃
+ * ┃　　　　　　 ┃
+ * ┃　　　┻　　　┃
+ * ┃　　　　　　 ┃
+ * ┗━┓　　　┏━━━┛
+ *   ┃　　　┃   神兽保佑
+ *   ┃　　　┃   代码无BUG！
+ *   ┃　　　┗━━━┓
+ *   ┃　　　　　 ┣┓
+ *   ┃　　　　　┏┛
+ *   ┗┓┓┏━┳┓┏┛
+ *    ┃┫┫ ┃┫┫
+ *    ┗┻┛ ┗┻┛
+ *
+ */
+
 //  Created by cloay on 15/9/23.
 //  Copyright © 2015年 Cloay. All rights reserved.
 //
